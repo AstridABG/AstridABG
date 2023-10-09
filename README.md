@@ -1,5 +1,6 @@
 # Hello there! My name is Andrea
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcute&psig=AOvVaw1tRroANyaUexuM8wQ5r-Qs&ust=1696944913633000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC7mMiK6YEDFQAAAAAdAAAAABAg" align="right" />
+<img src="https://github.com/AstridABG/AstridABG/assets/134918383/a5a667bf-6980-4dc3-92ec-61132969244b" align="center" />
+[Readme en construccion](https://github.com/AstridABG/AstridABG/assets/134918383/a5a667bf-6980-4dc3-92ec-61132969244b)
 
 ## Sobre mí
 [Una breve introducción sobre ti. Puedes incluir tus intereses, habilidades y lo que te apasiona en el desarrollo de software.]
