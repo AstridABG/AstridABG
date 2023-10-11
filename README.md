@@ -1,9 +1,9 @@
-# Hello there! My name is Andrea
-<img src="https://github.com/AstridABG/AstridABG/assets/134918383/a5a667bf-6980-4dc3-92ec-61132969244b" align="center" />
-[Readme en construccion](https://github.com/AstridABG/AstridABG/assets/134918383/a5a667bf-6980-4dc3-92ec-61132969244b)
+# ✨Hello there 👋! I'm Andrea
+![Banner readme](https://github.com/AstridABG/AstridABG/assets/134918383/176f18b8-cdfa-45b9-94f7-763d9c251571)
 
 ## Sobre mí
-[Una breve introducción sobre ti. Puedes incluir tus intereses, habilidades y lo que te apasiona en el desarrollo de software.]
+Nutricionista con una sólida formación en nutrición deportiva, estoy emocionada de embarcarme en una nueva aventura profesional en el mundo del desarrollo frontend. Busco fusionar mi experiencia previa en la gestión y atención de pacientes con mis conocimientos en desarrollo web para crear experiencias digitales innovadoras y centradas en el usuario. Mi enfoque es seguir aprendiendo y creciendo en este campo brindando un impacto positivo en la vida de las personas a través de la tecnología. 
+
 
 ## Experiencia
 - [Trabajo o experiencia relevante]
@@ -12,6 +12,7 @@
 ## Proyectos destacados
 - [Enlace a un proyecto importante que hayas realizado]
 - [Enlace a otro proyecto importante]
+
 
 ## Habilidades
 - [Lista tus habilidades, lenguajes de programación, tecnologías, etc.]
