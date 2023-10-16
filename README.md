@@ -6,6 +6,10 @@
 ## About me
 I studied nutrition and specialized in Sports Nutrition, where I obtained a lot of satisfaction from meeting my patients' goals, but I am currently excited to embark on a new professional adventure now in the world of frontend development. I seek to merge my previous experience in patient management and care with my knowledge in web development to create innovative and user-centered digital experiences. My focus is to continue learning and growing in this field by providing a positive impact on people's lives through technology. I am studying in a bootcamp at [Laboratoria](https://www.laboratoria.la/) for web development.
 
+## Contact
+- [Curriculum](https://github.com/AstridABG/AstridABG/files/12887325/CV.Astrid.Andrea.Bolanos.Garcia.pdf)
+- [Linkedin](https://www.linkedin.com/in/astrid-andrea-bg/)
+- [Email](l.n.andreagarcia@hotmail.com)
 
 ## Featured Proyects
 
@@ -19,9 +23,14 @@ During my time within Laboratoria I carried out the following projects.
 
 - [Markdown links analyzer](https://github.com/AstridABG/DEV009-md-links). Markdown link parser. It consists of a downloadable library with NMP for the analysis of folders with ".md" files. Extracts the links found and obtains the response code by using Axios, it also makes statistics with the links obtained. [More info](https://github.com/AstridABG/DEV009-md-links).
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AstridABG&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AstridABG&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AstridABG&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Contact
-- [Curriculum](https://github.com/AstridABG/AstridABG/files/12887325/CV.Astrid.Andrea.Bolanos.Garcia.pdf)
-- [Linkedin](https://www.linkedin.com/in/astrid-andrea-bg/)
-- [Email](l.n.andreagarcia@hotmail.com)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AstridABG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=AstridABG&icon=7&color=11)](https://visitcount.itsvg.in)
