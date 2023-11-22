@@ -7,7 +7,7 @@
 I studied nutrition and specialized in Sports Nutrition, where I obtained a lot of satisfaction from meeting my patients' goals, but I am currently excited to embark on a new professional adventure now in the world of frontend development. I seek to merge my previous experience in patient management and care with my knowledge in web development to create innovative and user-centered digital experiences. My focus is to continue learning and growing in this field by providing a positive impact on people's lives through technology. I am studying in a bootcamp at [Laboratoria](https://www.laboratoria.la/) for web development.
 
 ## Contact
-- [Curriculum](https://github.com/AstridABG/AstridABG/files/13434451/EN.CV.AABG.pdf)
+- [Curriculum](https://github.com/AstridABG/AstridABG/files/13435280/EN.CV.AABG.pdf)
 - [Linkedin](https://www.linkedin.com/in/astrid-andrea-bg/)
 - [Email](l.n.andreagarcia@hotmail.com)
 
