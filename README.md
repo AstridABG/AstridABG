@@ -1,5 +1,6 @@
 # ✨Hello there 👋! I'm Andrea
-![Banner readme](https://github.com/AstridABG/AstridABG/assets/134918383/176f18b8-cdfa-45b9-94f7-763d9c251571)
+![Banner readme](https://github.com/AstridABG/AstridABG/assets/134918383/ec20f1fa-aefe-430d-9f3f-163a8ba26322)
+
 
 ![My Skills](https://skillicons.dev/icons?i=javascript,html,css,nodejs,jest,firebase,react,bootstrap,figma&theme=light)
 
