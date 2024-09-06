@@ -16,11 +16,11 @@ I studied nutrition and specialized in Sports Nutrition, where I obtained a lot 
 
 During my time within Laboratoria I carried out the following projects.
 
-- [Pokémex](https://astridabg.github.io/DEV009-data-lovers/src/). One of my favorites, because I will learn how to structure web pages using JS. It is an application to view pokemon data in the form of cards. When you click on the cards, a popUp is displayed with more extensive information about each pokemon. You can also filter them by name, type, weakness and strength.  [More info](https://github.com/AstridABG/DEV009-data-lovers).
+- [Pokémex](https://astridabg.github.io/DEV009-data-lovers/src/). One of my favorites, because I learned how to structure web pages using JS. It is an application to view pokemon data in the form of cards. When you click on the cards, a popUp is displayed with more extensive information about each pokemon. You can also filter them by name, type, weakness and strength.  [More info](https://github.com/AstridABG/DEV009-data-lovers).
 
-- [Text Analyzer](https://astridabg.github.io/DEV009-text-analyzer/). This was my first project and where I learned how to do text analysis, as well as different uses of CSS to design the project's WEB. [More info](https://github.com/AstridABG/DEV009-text-analyzer).
+- [Text Analyzer](https://astridabg.github.io/DEV009-text-analyzer/). This was my first project where I learned how to analyze some text, as well as different uses of CSS to design the webpage. [More info](https://github.com/AstridABG/DEV009-text-analyzer).
 
-- [Social Network](https://drawing-lovers.web.app/login). One of the most challenging projects was the first time I had to use an API for user registration and database management. This application is a social network that allows you to create an account, and access a wall where you can make posts, like them, edit them, and delete them. [More info](https://github.com/AstridABG/DEV009-social-network).
+- [Social Network](https://drawing-lovers.web.app/login). One of the most challenging projects I had, this was the first time I had to use an API for user registration and database management. This application is a social network that allows you to create an account, and access a dashboard where you can make posts, give a like, edit them, and delete them. [More info](https://github.com/AstridABG/DEV009-social-network).
 
 - [Markdown links analyzer](https://github.com/AstridABG/DEV009-md-links). Markdown link parser. It consists of a downloadable library with NMP for the analysis of folders with ".md" files. Extracts the links found and obtains the response code by using Axios, it also makes statistics with the links obtained. [More info](https://github.com/AstridABG/DEV009-md-links).
 
